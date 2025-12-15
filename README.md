@@ -1,5 +1,8 @@
-# robosys2025
-ロボットシステム学の練習リポジトリ
+# plusコマンド
+
+![test](https://github.com/RukaIshikawa1225/robosys2025/actions/workflows/test.yml/badge.svg)
+
+標準入力から読み込んだ数字を足す。
 
 - このソフトウェアパッケージは,GSL-3.0-onlyの下,再頒布および使用が許可されます.
 - このパッケージは，3条項BSDライセンスのもとryuichiueda/emcl由来のコード（© 2025 Hoge Fuge）を利用しています
