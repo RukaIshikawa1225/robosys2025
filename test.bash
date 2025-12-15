@@ -1,6 +1,6 @@
 #!/bin/bash
 # SPDX-FileCopyrightText: 2025 Ruka Ishikawa
-# SPDX-License-Identifier:BSD-3-Clause
+# SPDX-License-Identifier:GPL-3.0-only
 
 ng () {
 	echo NG at Line $1
